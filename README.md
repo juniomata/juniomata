@@ -1,15 +1,14 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey, there](https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif)
+
 
 ## DATA SCIENCE PROJECTS
 
 <p align="center">
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HOUSE-EXAM-2"><img src="https://github.com/giovaldir/giovaldir/blob/master/house-eda-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/loyalty-members-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/consumer-complaints-cover_page-0001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-PURWADHIKA-IMAGE-RECOGNITION"><img src="https://github.com/giovaldir/giovaldir/blob/master/machinery-recognition-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
+  <a href="https://github.com/juniomata/Hotel_Booking_Cancellations_Prediction"><img src="https://github.com/juniomata/juniomata/blob/main/hotel.jpg" alt="juniomata" width="150" height="227"></a>
+  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/credit.jpg" alt="juniomata" width="150" height="227"></a>
+  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/ecommerce.jpg" alt="juniomata" width="150" height="227"></a>
+  <a href="https://github.com/juniomata/MovieRecommenderSystem_ContentBased"><img src="https://github.com/juniomata/juniomata/blob/main/movie.jpg" alt="juniomata" width="150" height="227"></a>
+  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/telco.jpg" alt="juniomata" width="150" height="227"></a>
 </p>
 <p align="center">
 Click for more information
