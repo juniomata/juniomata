@@ -1,4 +1,6 @@
-<a href="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif"><img src="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif" alt="juniomata" width="750"></a>
+<p align="center">
+  <a href="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif"><img src="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif" alt="juniomata" width="750"></a>
+</p>
 
 ## DATA SCIENCE PROJECTS
 
