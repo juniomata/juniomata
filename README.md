@@ -1,5 +1,4 @@
-![Hey, there](https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif)
-
+<a href="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif" alt="juniomata" width="750"></a>
 
 ## DATA SCIENCE PROJECTS
 
@@ -29,15 +28,7 @@ Click for more information
 
 <br />
 
+## QUOTES
+
 > # ***"Work as if God won't help, pray as if your intelligence is useless."*** 
-
-
-
-                                                      CONNECT WITH ME
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juniomata"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="juniolinkedin" width="26px"></a>
-</p>
-
-<br />
 
