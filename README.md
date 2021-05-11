@@ -31,6 +31,6 @@ Click for more information
 
 <br />
 
-## QUOTES
+## QUOTE
 
 > # ***"Work as if God won't help, pray as if your intelligence is useless."*** 
