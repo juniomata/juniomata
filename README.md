@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/juniomata/Hotel_Booking_Cancellations_Prediction"><img src="https://github.com/juniomata/juniomata/blob/main/hotel.jpg" alt="juniomata" width="150" height="210"></a>
-  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/credit.jpg" alt="juniomata" width="150" height="210"></a>
-  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/ecommerce.jpg" alt="juniomata" width="150" height="210"></a>
+<!--   <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/credit.jpg" alt="juniomata" width="150" height="210"></a> -->
+<!--   <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/ecommerce.jpg" alt="juniomata" width="150" height="210"></a> -->
   <a href="https://github.com/juniomata/MovieRecommenderSystem_ContentBased"><img src="https://github.com/juniomata/juniomata/blob/main/movie.jpg" alt="juniomata" width="150" height="210"></a>
   <a href="https://github.com/juniomata/Churn_Telco_Industry"><img src="https://github.com/juniomata/juniomata/blob/main/telco.jpg" alt="juniomata" width="150" height="210"></a>
 </p>
