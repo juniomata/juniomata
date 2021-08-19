@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/juniomata"><img src="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif"  alt="juniomata" width="750"></a>
+  <img src="https://github.com/juniomata/juniomata/blob/main/junio-head-github-gif.gif"  alt="juniomata" width="750">
 </p>
 
 ## DATA SCIENCE PROJECTS
