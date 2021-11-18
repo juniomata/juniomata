@@ -16,7 +16,7 @@ Click for more information
 </p>
 
 
-## PROGRAMMING LANGUAGES
+## TOOLS AND TECHNOLOGIES
 
   <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" />
