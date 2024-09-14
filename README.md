@@ -8,7 +8,7 @@
   <a href="https://public.tableau.com/app/profile/junio.mata/viz/USClimateMigrations/Dashboard1?publish=yes"><img src="https://github.com/juniomata/juniomata/blob/main/climate.jpg" alt="juniomata" width="150" height="210"></a>
   <a href="https://github.com/juniomata/nyc_building_energy"><img src="https://github.com/juniomata/juniomata/blob/main/energy.jpg" alt="juniomata" width="150" height="210"></a>
   <a href="https://github.com/juniomata/nyc_property_price_modeling"><img src="https://github.com/juniomata/juniomata/blob/main/housing.jpg" alt="juniomata" width="150" height="210"></a>
-  <a href="https://github.com/juniomata/Churn_Telco_Industry"><img src="https://github.com/juniomata/juniomata/blob/main/telco.jpg" alt="juniomata" width="150" height="210"></a>
+  <a href="https://github.com/juniomata/ml_project"><img src="https://github.com/juniomata/juniomata/blob/main/telco.jpg" alt="juniomata" width="150" height="210"></a>
   <a href="https://github.com/juniomata/Hotel_Booking_Cancellations_Prediction"><img src="https://github.com/juniomata/juniomata/blob/main/hotel.jpg" alt="juniomata" width="150" height="210"></a>
 </p>
 <p align="center">
